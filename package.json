@@ -1,0 +1,22 @@
+{
+  "name": "tug-of-tweet",
+  "version": "1.0.0",
+  "description": "A twitter game",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zicsus/tug-of-tweet.git"
+  },
+  "author": "Himanshu Mishra <zicsus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zicsus/tug-of-tweet/issues"
+  },
+  "homepage": "https://github.com/zicsus/tug-of-tweet#readme",
+  "devDependencies": {
+    "electron": "^16.0.6"
+  }
+}
